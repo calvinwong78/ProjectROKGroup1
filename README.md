@@ -112,7 +112,7 @@ and last is the result of the confusionmatrix
 
 
 <!-- Refrence -->
-##Refence
+##Refrence
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
