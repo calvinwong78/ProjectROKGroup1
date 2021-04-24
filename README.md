@@ -28,7 +28,7 @@
     <li><a href="#Methods">Methods</a></li>
     <li><a href="#Roadmap">Roadmap</a></li>
      <li><a href="#Refrence">Refrence</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#Important Note">Important Note</a></li>
   </ol>
 </details>
 
@@ -130,20 +130,12 @@ https://rpubs.com/rzezela77/346228
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
+<!-- Important Note -->
+## Important Note
+to run shiny program create 2 seperate new Rscript and then copy ui.r from code above into new Rscript and then save as ui after that copy the server into new Rscript and save as server after that you can run the shiny program
+<br />
+<br />
+the prediction class has nothing to do with shiny app if you run it. so prediction class need to run seperated from shiny class which show the result in console 
 
 
 
