@@ -27,7 +27,7 @@
     </li>
     <li><a href="#Methods">Methods</a></li>
     <li><a href="#Roadmap">Roadmap</a></li>
-    <li><a href="#Refrence">Refrence</a></li>
+     <li><a href="#Refrence">Refrence</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -111,8 +111,8 @@ and last is the result of the confusionmatrix
 <img src="www/DecisionTreeconfusionmatrix.png" >
 
 
-<!-- Refrence -->
-##Refrence
+<!--Refrence -->
+## Refrence
 https://rpubs.com/rzezela77/346228
 
 
