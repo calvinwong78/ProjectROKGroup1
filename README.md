@@ -90,11 +90,15 @@ here is the plot of model glm_fm2
 <br />
 shows error Residuals vs fitted values; . The dotted line at y=0 indicates our fit line; . Any point on fit line obviously has zero residual. Points above have positive residuals and points below have negative residuals. . The red line is the the smoothed high order polynomial curve to give us an idea of pattern of residual movement. In our case we can see that our residuals have logaritmic pattern that means we got a better model.
 <br />
+<br />
 Normal Q-Q Plot: . The Normal Q-Q plot is used to check if our residuals follow Normal distribution or not; . The residuals are normally distributed if the points follow the dotted line closely; In this case residual points follow the dotted line closely except for observation #349 So our model residuals have passed the test of Normality.
+<br />
 <br />
 Scale - Location Plot: . Scale location plot indicates spread of points across predicted values range; . One of the assumptions for Regression is Homoscedasticity . i.e variance should be reasonably equal across the predictor range; . A horizontal red line is ideal and would indicate that residuals have uniform variance across the range; . As residuals spread wider from each other the red spread line goes up; In our case the data is Homoscedastic i.e has uniform variance.
 <br />
+<br />
 Residuals vs Leverage Plot: Before attacking the plot we must know what Influence and what leverage is. Lets understand them first. Influence : The Influence of an observation can be thought of in terms of how much the predicted scores would change if the observation is excluded. Cook’s Distance is a pretty good measure of influence of an observation. Leverage : The leverage of an observation is based on how much the observation’s value on the predictor variable differs from the mean of the predictor variable. The more the leverage of an observation , the greater potential that point has in terms of influence.
+<br />
 <br />
 and last after the model tested we got the confusionmatrix which is shown below 
 <br />
