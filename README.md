@@ -123,6 +123,41 @@ and last is the result of the confusionmatrix
 <img src="www/DecisionTreeconfusionmatrix.png" >
 
 
+
+
+<br />
+<br />
+SVM (Support Vector Machines)
+<br />
+<img src="www/svm1.png" >
+<br />
+The first thing we do is preparing the dataset, we create data partition or splitting the data into 70% and 30%. Train is 70% and test in 30%.
+<br />
+<img src="www/svm2.png" >
+<br />
+Then we choose parameters with tune() function. Tune() function will specify “Best” parameter using grid search algorithm over the supplied parameter ranges (C - cost, gamma), using the train set. The range to gamma parameter is between 0.000001 and 0.1. For cost parameter the range is from 0.1 until 10. The accuracy of an SVM model is largely dependent on these parameters.
+<br />
+<img src="www/svm3.png" >
+
+<img src="www/svm4.png" >
+<br />
+As we can see the result show that the best parameters are Cost=10 and gamma=0.01.
+After that, we train the model, In order to build a SVM model to predict “Diabetes” using Cost=10 and gamma=0.01, which were the best values according the tune() function performed before.
+<br />
+<img src="www/svm5.png" >
+
+<img src="www/svm6.png" >
+<br />
+And the last is testing the model and result of Confusion Matrix.
+<br />
+<img src="www/svm7.png" >
+
+<img src="www/svm8.png" >
+<br />
+
+
+
+
 <!--Refrence -->
 ## Refrence
 https://rpubs.com/rzezela77/346228
