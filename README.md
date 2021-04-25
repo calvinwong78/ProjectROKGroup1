@@ -52,8 +52,8 @@ This section should list any major frameworks that you built your project using.
 1. CALVIN WONG = monitoring all member and helping them, Logistic Regression model part,shiny.
 2. CHANDRA WINATA TJIA =  Decision Tree part
 3. DANIEL CHEWNALDO = SVM part
-4. ALEXANDRO MIKHA
-5. CLAO PANSON
+4. ALEXANDRO MIKHA = -
+5. CLAO PANSON = -
 
 
 
