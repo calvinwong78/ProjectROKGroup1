@@ -154,7 +154,25 @@ And the last is testing the model and result of Confusion Matrix.
 
 <img src="www/svm8.png" >
 <br />
+<br />
 
+# Hasil Shiny 
+Disini kita bisa mengupload data dan menampilkan isi dari data yang diupload dalam bentuk csv, disini kita juga bisa melihat summary dari data tersebut.
+<br />
+<br />
+<img src="www/shiny1.png" >
+<img src="www/shiny2.png" >
+<img src="www/shiny3.png" >
+<br />
+hasil dari confusionmatrix semua model
+<br />
+<img src="www/shiny4.png" >
+<img src="www/shiny5.png" >
+<img src="www/shiny6.png" >
+<br />
+comparison accuracy antara 3 model
+<br />
+<img src="www/shiny7.png" >
 
 
 
